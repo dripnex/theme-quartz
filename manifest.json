@@ -1,0 +1,7 @@
+{
+  "id": "theme-quartz",
+  "name": "Quartz",
+  "version": "0.1.0",
+  "description": "Cold paper. Clean product light.",
+  "main": "dist/index.js"
+}
