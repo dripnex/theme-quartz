@@ -35,7 +35,7 @@ const TOKENS = {
 module.exports = {
   id: 'theme-quartz',
   name: 'Quartz',
-  version: '0.1.0',
+  version: '0.1.1',
   description: 'Cold paper. Clean product light.',
 
   activate(context) {
